@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Shahid-Pentacodes
+- 🌐 I’m a WordPress and Laravel developer, currently starting to learn MERN full stack development.
+- 📚 I’m expanding my skills in Shopify, PHP, HTML5, CSS3, JavaScript, and jQuery.
+- 🤝 I’m looking to collaborate on exciting web development projects and challenges.
+- 📧 How to reach me: itxshahid881@gmail.com
+- 🎉 Fun fact: I’m always ready to tackle any challenge that comes my way!
